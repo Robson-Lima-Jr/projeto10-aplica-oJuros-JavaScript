@@ -1,0 +1,24 @@
+{
+  "name": "projeto10-aplicacaojuros-javascript",
+  "version": "1.0.0",
+  "description": "Projeto [DevMedia](https://www.devmedia.com.br/) - 18ª Missão: Construa uma aplicação que calcula os juros de uma dívida em atraso",
+  "main": "app-juros.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robson-Lima-Jr/projeto10-aplicacaoJuros-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robson-Lima-Jr/projeto10-aplicacaoJuros-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Robson-Lima-Jr/projeto10-aplicacaoJuros-JavaScript#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
