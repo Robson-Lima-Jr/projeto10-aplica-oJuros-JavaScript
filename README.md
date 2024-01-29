@@ -1,2 +1,4 @@
 # projeto10-aplica-oJuros-JavaScript
-Projeto DevMedia - 18ª Missão: Aplicação que Calcula Juros
+
+Projeto [DevMedia](https://www.devmedia.com.br/) - 18ª Missão: Construa uma aplicação que calcula os juros de uma dívida em atraso
+
